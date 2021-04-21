@@ -1,3 +1,4 @@
+# Since the Unity project is in a subfolder, the sample Unity .gitignore has been modified accordingly.
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
